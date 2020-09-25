@@ -2,25 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.26.
 
+## Requirements
+* NodeJS 12.14.x
+* NPM 6.13.x
+* Angular CLI 8.3.x
+* Angular 8.2.x
+
+## Setup Procedure
+* Open a command prompt in the directory of the project
+* Execute "NPM Install" to install all the required packages for the project
+* After installing all the packages execute "NG Serve" and navigate to "http://localhost:4200/" to view the application running in the browser.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
